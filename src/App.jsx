@@ -47,6 +47,7 @@ function App() {
         <ul>
           <text>足りないカロリー </text>
           <text>100kcal</text>
+          <button>計算</button>
         </ul>
         <button>計算</button>
         <ul>
